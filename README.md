@@ -246,4 +246,4 @@ Through this project, I gained practical experience in:
 
 **Nithyashree Nataraja**
 
-**Aspiring Data Analyst | SQL | Python | Power BI | Microsoft Excel | Data Visualization**
+**Data Analyst | SQL | Python | Power BI | Microsoft Excel | Data Visualization**
