@@ -49,7 +49,7 @@ The dataset contains transactional sales records with the following attributes:
 ##  Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Vrinda Store Dashboard" width="900">
+  <img src="Screenshots/dashboard.png" alt="Vrinda Store Dashboard" width="900">
 </p>
 
 ---
